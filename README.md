@@ -1,4 +1,4 @@
-# Understanding the Risk Register
+# Risk Register Lab
 
 ## Risk Concepts
 Here are some fundamental risk concepts that underscore what we are talking about today:

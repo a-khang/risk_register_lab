@@ -11,7 +11,12 @@ In terms of cybersecurity risk management, we know a few things:
 
 ## Understanding the Risk Register
 
-A risk register is used to document identified risks which an organization faces. These risks are sorted by severity and likelihood to determine an organization's risk management priorities.
+A risk register is used to document **identified** risks which an organization faces. These risks are sorted by severity and likelihood to determine an organization's risk management priorities.
+
+### Context with Information Security
+For some additional context, we can consult the core of NIST's Cybersecurity Framework to see where this tool is used.
+
+
 
 To take a look at what a risk register looks like, let's run a Google Dork to find an .xls template used by the government.
 

@@ -13,9 +13,10 @@ In terms of cybersecurity risk management, we know a few things:
 
 A risk register is used to document **identified** risks which an organization faces. These risks are sorted by severity and likelihood to determine an organization's risk management priorities.
 
-### Context with Information Security
-For some additional context, we can consult the core of NIST's Cybersecurity Framework to see where this tool is used.
-
+### NIST CSF Context
+The first element of the CSF core (regardless of whether you use NIST CSF 1.0 or 2.0) is _Identify_, provided in the excerpt below:
+> IDENTIFY (ID) — The organization’s current cybersecurity risks are understood.
+Understanding the organization’s assets (e.g., data, hardware, software, systems, facilities, services, people), suppliers, and related cybersecurity risks **enables an organization to prioritize its efforts consistent with its risk management strategy and the mission needs identified** under GOVERN. This Function also includes the identification of improvement opportunities for the organization’s policies, plans, processes, procedures, and practices that support cybersecurity risk management to inform efforts under all six Functions.
 
 
 To take a look at what a risk register looks like, let's run a Google Dork to find an .xls template used by the government.

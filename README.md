@@ -6,8 +6,9 @@ Here are some fundamental risk concepts that underscore what we are talking abou
 - With limited resources, we cannot afford to prevent all risks to which we are exposed.
 
 In terms of cybersecurity risk management, we know a few things:
-- An organization's security operations form a cost centre: resources are constrained, so there needs to be a focus on cost reduction. Security personnel should focus on mitigating threats that pose significant risks to the organization.
+- An organization's security operations form a cost centre: resources are constrained, so there needs to be a focus on cost reduction.
 - Threats that pose negligible risks should not be pursued as they can occupy security efforts that could be utilized to prevent and handle potentially catastrophic threats.
+- Security personnel should focus on mitigating threats that pose significant risks to the organization.
 
 ## Understanding the Risk Register
 

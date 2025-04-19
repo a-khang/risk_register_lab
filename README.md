@@ -17,4 +17,4 @@ To take a look at what a risk register looks like, let's run a Google Dork to fi
 
 <img width="981" alt="Screenshot 2025-04-19 at 1 55 03 AM" src="https://github.com/user-attachments/assets/85d70cef-f93a-407d-a510-fdf171dfea1f" />
 
-We see that the first result returns an Enterprise Risk Management Template provided by the B.C. Government.
+We see that the first result returns an Enterprise Risk Register Template provided by the B.C. Government.

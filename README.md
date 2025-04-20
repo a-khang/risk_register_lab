@@ -1,14 +1,18 @@
 # Risk Register Lab
 
-## Risk Concepts
-Here are some fundamental risk concepts that underscore what we are talking about today:
-- Risk exposure is inevitable, and because we can't realistically avoid all risk, we need a risk management strategy that aligns with our risk tolerance and strategic goals.
-- With limited resources, we cannot afford to prevent all risks to which we are exposed.
+## An anecdote
+Imagine owning a software company. You're launching a new product that runs on the cloud, but you've run into some critical issues:
 
-In terms of cybersecurity risk management, we know a few things:
-- An organization's security operations form a cost centre: resources are constrained, so there needs to be a focus on cost reduction.
-- Threats that pose negligible risks should not be pursued as they can occupy security efforts that could be utilized to prevent and handle potentially catastrophic threats.
-- Security personnel should focus on mitigating threats that pose significant risks to the organization.
+- Your data security practices are outdated, and because you provide cloud services in the EU, you may be subject to penalties under GDPR.
+- You've somehow managed to *really* piss off an employee who got laid off. Due to a lack of procedural management related to offboarding, their access to the production system was only revoked a week after their termination. You're worried that there's a leak.
+- After watching the weather forecast this morning, you learned that a hurricane may be passing through one of the regions where some of your data centres are.
+
+Being able to sift through imminent risks and figure out a course of action is an important skill in information security. It's not just about see-it-and-fix-it. It takes understanding of the problem itself and how it relates to the business overall.
+
+## Risk Concepts
+To lay the ground for what we're talking about today, here are some fundamental concepts of risk and how they're managed in cybersecurity:
+- Ideally, we would use any means to try to prevent **all** threats, but finite resources and the cost-driving nature of cybersecurity tell us otherwise.
+- The key is prioritization. Organizations should focus on managing risks that pose a significant (or perhaps catastrophic) impact, rather than exhausting resources on negligible risks.
 
 ## Understanding the Risk Register
 

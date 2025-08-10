@@ -22,10 +22,10 @@ Integrate with NIST SP 800-30 (Guide for Conducting Risk Assessments) for buildi
 Map the CSF's 6 functions (Identify, Protect, Detect, Respond, Recover, Govern) to HIPAA safeguards.
 - Each CSF function has categories and subcategories. A risk will match one or more of these categories.
 - HIPAA contains two relevant rule sets: the Security Rule (referring to safeguards) and the Privacy Rule (use/disclosure of PHI).
-- HIPAA will specify a recommendation for implementing controls based on the risk specified with NIST CSF.
+- HIPAA will specify a recommendation for implementing controls based on the risk specified in NIST CSF.
 
 ## Steps
-Begin by using NIST SP 800-30 as the template for the risk register. Define the purpose and scope of the risk assessment, and identify assets.
+Begin by defining the purpose and scope of the risk assessment and identifying assets. Use NIST SP 800-30 as the template for the risk register.
 
 |Key Asset|Description|Asset Type|
 |---------|-----------|-----------|

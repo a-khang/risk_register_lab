@@ -27,6 +27,9 @@ Map the CSF's 6 functions (Identify, Protect, Detect, Respond, Recover, Govern) 
 ## Steps
 Begin by defining the purpose and scope of the risk assessment and identifying assets. Use NIST SP 800-30 as the template for the risk register.
 
+- Purpose: Grow securely, comply with HIPAA, protect patient data, find/rank risks to the patient dashboard and cloud setup.
+- Scope: Systems, Infrastructure, Data
+
 |Key Asset|Description|Asset Type|
 |---------|-----------|-----------|
 |Patient Database|Stores ePHI, lab results, visit history, and other sensitive medical records|System|
@@ -36,7 +39,7 @@ Begin by defining the purpose and scope of the risk assessment and identifying a
 |API Integrations|Connections to third-party labs, scheduling tools, and EHR systems|System|System|
 |Cloud Infrastructure|AWS-hosted servers, databases, and storage environments supporting the app|Infrastructure|
 |Source Code Repository|Proprietary code for the patient dashboard and backend services|Infrastructure|
-|ePHI (Electronic Protected Health Information)|patient demographics, medical history, lab results|Data|
+|ePHI (Electronic Protected Health Information)|Patient demographics, medical history, lab results|Data|
 |User Credentials|Patient and Provider usernames, passwords, MFA tokens|Data|
 |Audit Logs|Records of user and system activity that support compliance and forensics|Data|
 

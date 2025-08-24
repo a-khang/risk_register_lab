@@ -44,6 +44,7 @@ Begin by defining the purpose and scope of the risk assessment and identifying a
 |Audit Logs|Records of user and system activity that support compliance and forensics|Data|
 
 Next, identify threats and vulnerabilities. Also, assess/score each risk by determining the product of likelihood and impact.
+> It helps to think like a hacker. You first find common vulnerabilities for each of the key assets. Then, you research or come up with ways to exploit those vulnerabilities. Lastly, think about how those exploits (realized risks) reflect on the organization's information technology, systems, and objectives. 
 
 Then, map the risk to HIPAA and NIST CSF.
 

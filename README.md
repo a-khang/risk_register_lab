@@ -1,12 +1,18 @@
 # Risk Register Lab
 
 ## Objectives
-1. Demonstrate risk management skills: 
+Demonstrate risk analysis and risk management skills: 
 - Identification
 - Scoring
 - Documentation
 - Assigning Ownership
-2. Use Excel to create a risk register.
+Understand NIST CSF and HIPAA Safeguards
+
+## Tools
+1. Excel/Sheets for Documentation
+2. [NIST SP 800-66 rev. 2 | Implementing the HIPAA Security Rule](https://csrc.nist.gov/pubs/sp/800/66/r2/final)
+3. [US HHS | HIPAA Privacy Rule](https://www.hhs.gov/hipaa/for-professionals/privacy/index.html)
+4. [US HHS | HIPAA Security Rule](https://www.hhs.gov/hipaa/for-professionals/security/index.html)
 
 ## Scenario
 Healthsync, a small healthcare SaaS startup, is building a cloud-based patient dashboard app for clinics in Canada and the U.S. The platform lets patients view medical records, track lab results, book telehealth appointments, and securely message providers. The team of 12 hosts its services on AWS and must comply with HIPAA and PIPEDA, with security at a foundational stage. The goal is to protect ePHI, meet compliance requirements, and keep security processes lean enough to support rapid growth. For this lab, HealthSync is creating a risk register using NIST SP 800-30, mapping risks to NIST CSF functions and HIPAA safeguards to prioritize actions that balance compliance, security, and scalability.
